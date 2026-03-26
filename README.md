@@ -1,4 +1,4 @@
-# amazon-clone
+# Amazon-clone
 A responsive Amazon homepage clone built using HTML and CSS.  
 This project focuses on replicating the layout and design of a real-world e-commerce website.
 
